@@ -41,7 +41,7 @@
             "path": "CM_NW/hepatic_artery.stl",
             "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_NW/hepatic_artery.stl",
             "opacity": 1.0,
-            "color": "#FFFFFF",
+            "color": "#d93111",
             "material": {
                 "type": "MeshStandardMaterial",
                 "roughness": 0.8,
