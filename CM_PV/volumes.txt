@@ -9,3 +9,6 @@ PVterritory_6.stl		121.41219 cm³
 PVterritory_7.stl		183.90501 cm³
 PVterritory_8.stl		101.91265 cm³
 PVterritory_9.stl		121.22698 cm³
+mass_1.stl		2.38438 cm³
+mass_2.stl		0.59955 cm³
+mass_3.stl		0.24969 cm³
