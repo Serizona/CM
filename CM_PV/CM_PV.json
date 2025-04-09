@@ -1,0 +1,400 @@
+{
+    "models": [
+        {
+            "name": "PVbranch_1.stl",
+            "path": "CM_PV/PVbranch_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/PVbranch_1.stl",
+            "opacity": 1.0,
+            "color": "#5b57ff",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "PVbranch_2.stl",
+            "path": "CM_PV/PVbranch_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/PVbranch_2.stl",
+            "opacity": 1.0,
+            "color": "#0bf511",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "PVbranch_3.stl",
+            "path": "CM_PV/PVbranch_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/PVbranch_3.stl",
+            "opacity": 1.0,
+            "color": "#cdcd04",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "PVbranch_4.stl",
+            "path": "CM_PV/PVbranch_4.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/PVbranch_4.stl",
+            "opacity": 1.0,
+            "color": "#17d982",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "PVbranch_5.stl",
+            "path": "CM_PV/PVbranch_5.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/PVbranch_5.stl",
+            "opacity": 1.0,
+            "color": "#06056a",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "PVbranch_6.stl",
+            "path": "CM_PV/PVbranch_6.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/PVbranch_6.stl",
+            "opacity": 1.0,
+            "color": "#a898b2",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "PVbranch_7.stl",
+            "path": "CM_PV/PVbranch_7.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/PVbranch_7.stl",
+            "opacity": 1.0,
+            "color": "#75dc15",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "PVbranch_8.stl",
+            "path": "CM_PV/PVbranch_8.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/PVbranch_8.stl",
+            "opacity": 1.0,
+            "color": "#5d3500",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "PVbranch_9.stl",
+            "path": "CM_PV/PVbranch_9.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/PVbranch_9.stl",
+            "opacity": 1.0,
+            "color": "#b2c90a",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "PVterritory_1.stl",
+            "path": "CM_PV/PVterritory_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/PVterritory_1.stl",
+            "opacity": 0.4,
+            "color": "#5b57ff",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "PVterritory_2.stl",
+            "path": "CM_PV/PVterritory_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/PVterritory_2.stl",
+            "opacity": 0.4,
+            "color": "#0bf511",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "PVterritory_3.stl",
+            "path": "CM_PV/PVterritory_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/PVterritory_3.stl",
+            "opacity": 0.4,
+            "color": "#cdcd04",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "PVterritory_4.stl",
+            "path": "CM_PV/PVterritory_4.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/PVterritory_4.stl",
+            "opacity": 0.4,
+            "color": "#17d982",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "PVterritory_5.stl",
+            "path": "CM_PV/PVterritory_5.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/PVterritory_5.stl",
+            "opacity": 0.4,
+            "color": "#06056a",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "PVterritory_6.stl",
+            "path": "CM_PV/PVterritory_6.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/PVterritory_6.stl",
+            "opacity": 0.4,
+            "color": "#a898b2",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "PVterritory_7.stl",
+            "path": "CM_PV/PVterritory_7.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/PVterritory_7.stl",
+            "opacity": 0.4,
+            "color": "#75dc15",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "PVterritory_8.stl",
+            "path": "CM_PV/PVterritory_8.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/PVterritory_8.stl",
+            "opacity": 0.4,
+            "color": "#5d3500",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "PVterritory_9.stl",
+            "path": "CM_PV/PVterritory_9.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/PVterritory_9.stl",
+            "opacity": 0.4,
+            "color": "#b2c90a",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "mass_1.stl",
+            "path": "CM_PV/mass_1.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/mass_1.stl",
+            "opacity": 1.0,
+            "color": "#90ee90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "mass_2.stl",
+            "path": "CM_PV/mass_2.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/mass_2.stl",
+            "opacity": 1.0,
+            "color": "#90ee90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "mass_3.stl",
+            "path": "CM_PV/mass_3.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/mass_3.stl",
+            "opacity": 1.0,
+            "color": "#90ee90",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        },
+        {
+            "name": "pv_main_branch.stl",
+            "path": "CM_PV/pv_main_branch.stl",
+            "download_url": "https://raw.githubusercontent.com/serizona/CM/master/CM_PV/pv_main_branch.stl",
+            "opacity": 1.0,
+            "color": "#edece3",
+            "material": {
+                "type": "MeshStandardMaterial",
+                "roughness": 0.8,
+                "metalness": 0.0,
+                "normalMap": "textures/normal.jpg",
+                "aoMap": "textures/ambient_occlusion.jpg",
+                "clearcoat": 0.3,
+                "clearcoatRoughness": 0.6,
+                "displacementMap": "textures/depth.jpg",
+                "displacementScale": 0.05
+            }
+        }
+    ]
+}
