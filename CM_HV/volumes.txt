@@ -20,3 +20,6 @@ HVterritory_6.stl		230.78192 cm³
 HVterritory_7.stl		97.92496 cm³
 HVterritory_8.stl		12.97131 cm³
 HVterritory_9.stl		26.32500 cm³
+mass_1.stl		2.38438 cm³
+mass_2.stl		0.59955 cm³
+mass_3.stl		0.24969 cm³
