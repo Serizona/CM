@@ -2,4 +2,4 @@ ID: CM
 Year of Birth: -
 Age: -
 Study Date: -
-Clinical Information: 
+Clinical Information: Il paziente presenta metastasi epatiche del settore posteriore destro.
